@@ -23,7 +23,7 @@ int main()
     float an = 0;
     float sum = 0;
     int n;
-    cout << "Введiть х "; /*Цикл обчислення суми*/
+    cout << "Enter: (х) "; /*Цикл обчислення суми*/
     cin >> x;
     for (n = 0; n < 10 || an >= ε;)
     {
